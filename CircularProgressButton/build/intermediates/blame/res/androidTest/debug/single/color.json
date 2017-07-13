@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/res/merged/androidTest/debug/color/cpb_idle_state_selector.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/bundles/debug/res/color/cpb_idle_state_selector.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/res/merged/androidTest/debug/color/cpb_complete_state_selector.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/bundles/debug/res/color/cpb_complete_state_selector.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/res/merged/androidTest/debug/color/cpb_error_state_selector.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/CircularProgressButton/build/intermediates/bundles/debug/res/color/cpb_error_state_selector.xml"
+    }
+]

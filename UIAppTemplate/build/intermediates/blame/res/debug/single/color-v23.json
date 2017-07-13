@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

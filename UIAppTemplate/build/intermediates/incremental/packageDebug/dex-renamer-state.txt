@@ -1,0 +1,7 @@
+#Thu Jul 13 16:19:14 ICT 2017
+base.0=/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1cb45a82eddd3e0a2b12edee3291b59924588ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82cf447a1f7ee550295ebdc3df71a426dcb6a773/classes.dex
+base.1=/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_82cf447a1f7ee550295ebdc3df71a426dcb6a773
+file.0=/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c1cb45a82eddd3e0a2b12edee3291b59924588ac/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/header.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/header.png"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/icon.png"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/login_gradient.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/login_gradient.png"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/login_gradient_flip.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/login_gradient_flip.png"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/logo.png",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/drawable-hdpi-v4/logo.png"
+    }
+]

@@ -1,0 +1,742 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_splash_screens.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_splash_screens.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/view_floating_labeled_edit_text.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/view_floating_labeled_edit_text.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_header_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_header_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_social_child.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_social_child.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_tab_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_tab_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_paralax.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_paralax.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_swipe_to_dissmiss_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_swipe_to_dissmiss_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_sticky_header_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_sticky_header_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_sticky_header_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_sticky_header_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_google_cards_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_google_cards_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bars_dark.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bars_dark.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_header.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_header.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_expandable_list_view_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_expandable_list_view_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_parallax_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_parallax_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_google_cards_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_google_cards_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_media_child.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_media_child.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/toolbar_tab_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/toolbar_tab_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_left_menus.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_left_menus.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/toolbar_tab_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/toolbar_tab_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_shop_child.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_shop_child.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_register_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_register_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_swip_to_dissmiss_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_swip_to_dissmiss_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_google_cards_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_google_cards_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/group_item.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/group_item.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_login_page_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_login_page_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_universal_info.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_universal_info.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_wizard_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_wizard_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_swipe_to_dissmiss_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_swipe_to_dissmiss_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_2.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_2.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_drag_and_drop_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_drag_and_drop_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_drag_and_drop_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_drag_and_drop_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_header_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_header_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_shape_image_views.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_shape_image_views.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_list_views.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_list_views.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_stickylistheaders.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_stickylistheaders.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_3.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_3.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_parallax_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_parallax_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_drag_and_drop_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_drag_and_drop_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_list_views.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_list_views.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_sticky_header_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_sticky_header_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_login_page_light.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_login_page_light.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_drag_and_drop_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_drag_and_drop_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_subcategory.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_subcategory.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_login_page_dark.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_login_page_dark.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_travel_child.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_travel_child.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_drag_and_drop_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_drag_and_drop_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_undo_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_undo_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_tab_universal.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_tab_universal.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_categories_two_columns.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_categories_two_columns.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax_ken_burns.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax_ken_burns.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_google_cards_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_google_cards_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_wizard_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_wizard_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_parallax_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_parallax_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_google_cards.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_google_cards.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_wizard_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_wizard_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bar_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bar_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_progress_bars.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_progress_bars.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tab_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tab_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_drag_and_drop_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_drag_and_drop_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_check_and_radio_boxes.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_check_and_radio_boxes.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tabs.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tabs.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bars_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bars_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_wizard_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_wizard_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_wizard_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_wizard_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_1.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_1.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_undo_view_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_undo_view_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_parallax_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_parallax_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_expandable_list_view_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_expandable_list_view_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_header_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_header_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_wizard_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_wizard_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_tab_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_tab_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/psts_tab.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/psts_tab.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_default.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_default.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_login_page_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_login_page_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_buttons.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_buttons.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tab_universal.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tab_universal.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_text_views.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_text_views.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_search_bars.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_search_bars.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_expandable_list_view_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_expandable_list_view_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_undo_view.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_undo_view.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_parallax_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_parallax_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_subscribe.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_subscribe.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_image_gallery.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_image_gallery.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_2.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_2.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_swip_to_dissmiss_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_swip_to_dissmiss_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_universal_warning.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_universal_warning.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_search.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_search.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_tab_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_tab_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_parallax_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_parallax_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_undo_view_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_undo_view_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tab_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tab_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/toolbar_tab_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/toolbar_tab_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_image_gallery.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_image_gallery.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_header_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_header_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_dialogs.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_dialogs.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_social_premium.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_social_premium.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tab_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tab_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_swipe_to_dissmiss_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_swipe_to_dissmiss_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_wizard_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_wizard_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_sticky_header_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_sticky_header_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_wizard_universal.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_wizard_universal.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_wizard_universal.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_wizard_universal.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_parallax_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_parallax_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bar_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bar_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_expandable_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_expandable_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_wizard_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_wizard_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_swipe_to_dissmiss_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_swipe_to_dissmiss_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_tab_shop.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_tab_shop.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_fake.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_fake.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_expandable_list_view_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_expandable_list_view_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_tab_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_tab_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/fragment_login_page_and_loaders.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/fragment_login_page_and_loaders.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_undo_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_undo_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_1.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_1.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_expandable_list_view.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_expandable_list_view.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_item_categories_one_column.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_item_categories_one_column.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_dialog.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bars_light.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bars_light.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/dialog_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/dialog_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/header_navigation_drawer_media.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/header_navigation_drawer_media.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_login_page_social.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_login_page_social.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/activity_search_bars_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/activity_search_bars_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_travel.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/layout/list_view_item_navigation_drawer_travel.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout/abc_activity_chooser_view.xml"
+    }
+]

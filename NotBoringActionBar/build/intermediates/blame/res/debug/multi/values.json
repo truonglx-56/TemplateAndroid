@@ -1,0 +1,203 @@
+[
+    {
+        "outputFile": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 68,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 38,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 38,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 45,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 45,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 48,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 48,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 55,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 1744,
+                    "endOffset": 2054
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 1744,
+                        "endOffset": 1927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 2059,
+                    "endColumn": 69,
+                    "endOffset": 2124
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 69,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 2129,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 2450
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 2455,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 2658
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2663,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 3019
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 380
+                    }
+                }
+            }
+        ]
+    }
+]

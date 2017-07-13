@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/build/intermediates/res/merged/debug/layout/view_kenburns.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/layout/view_kenburns.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/build/intermediates/res/merged/debug/layout/view_header_placeholder.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/layout/view_header_placeholder.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/build/intermediates/res/merged/debug/layout/activity_noboringactionbar.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/NotBoringActionBar/res/layout/activity_noboringactionbar.xml"
+    }
+]

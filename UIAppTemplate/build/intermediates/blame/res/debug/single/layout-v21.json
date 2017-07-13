@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

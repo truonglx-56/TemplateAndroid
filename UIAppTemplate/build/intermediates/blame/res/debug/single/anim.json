@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/translate_top_to_center.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/res/anim/translate_top_to_center.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/truonglx/.android/build-cache/22e5d095478dab721320400454648cc1c0a38f92/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    }
+]

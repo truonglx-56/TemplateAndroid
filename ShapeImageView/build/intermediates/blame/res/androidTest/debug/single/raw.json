@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_star.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_star.svg"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_hexagon.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_hexagon.svg"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_pentagon.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_pentagon.svg"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_diamond.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_diamond.svg"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_heart.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_heart.svg"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/res/merged/androidTest/debug/raw/imgview_octogon.svg",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ShapeImageView/build/intermediates/bundles/debug/res/raw/imgview_octogon.svg"
+    }
+]

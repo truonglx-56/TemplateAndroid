@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/layout/main.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/layout/progress_wheel_activity.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/layout/progress_wheel_activity.xml"
+    },
+    {
+        "merged": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/res/merged/androidTest/debug/layout/progress_spinner.xml",
+        "source": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/layout/progress_spinner.xml"
+    }
+]

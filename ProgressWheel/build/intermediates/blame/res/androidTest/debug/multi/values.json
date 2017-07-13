@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 48,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 693,
+                        "endColumn": 48,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endColumn": 52,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/ProgressWheel/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 52,
+                        "endOffset": 790
+                    }
+                }
+            }
+        ]
+    }
+]

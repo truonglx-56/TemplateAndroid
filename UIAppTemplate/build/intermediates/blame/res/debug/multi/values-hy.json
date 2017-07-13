@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/truonglx/Desktop/JavaBooks/ui-android-template-app_v21/android - AS/UIAppTemplate/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 209,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "/home/truonglx/.android/build-cache/4ae730d24bc6969f77c76b49cce3a99b5a547b43/output/res/values-hy/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 209,
+                        "endOffset": 494
+                    }
+                }
+            }
+        ]
+    }
+]
